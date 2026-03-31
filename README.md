@@ -1,4 +1,4 @@
-# tecmage.github.io
+# KO-Reader
 KO-Reader information and privacy policy
 
 
