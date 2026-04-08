@@ -1,7 +1,9 @@
-# KO-Reader
-KO-Reader information and privacy policy
+# KO Reader
+KO Reader information and privacy policy
+ 
 
+[Privacy Policy](https://tecmage.github.io/Privacy.html)
 
-[Privacy Policy](https://tecmage.github.io/Privacy.md)
+[Terms & Conditions](https://tecmage.github.io/Terms.html)
 
-[Terms & Conditions](https://tecmage.github.io/Terms.md)
+[Support](https://tecmage.github.io/Support.html)
