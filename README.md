@@ -5,6 +5,8 @@ If you're looking to convert an EPUB or PDF file to an audiobook for playback la
 
 However, if you want totally local playback of articles, chapters, or books on the go, KO Reader might be right for you.
 
+You can try the voices first at [Kokoro-TTS on Hugging Face](https://huggingface.co/spaces/hexgrad/Kokoro-TTS). I usually use the **Heart** (`af_heart`) voice for most of my tasks.
+
 **KO Reader** is a text-to-speech reader app that converts web articles, EPUBs, PDFs, and plain text into natural-sounding audio using the on-device Kokoro AI model.
 
 ## Features
