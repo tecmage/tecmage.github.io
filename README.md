@@ -12,7 +12,7 @@ You can try the voices first at [Kokoro-TTS on Hugging Face](https://huggingface
 ## Features
 - **Read Web Sites** — Enter a URL and listen. Works with Royal Road, Wattpad, Wikipedia, news sites, blogs, and more.
 - **EPUB & PDF Support** — Load your ebook or document library and listen anywhere.
-- **Safari Share Extension** — Send URLs directly from Safari to KO Reader with one tap.
+- **Safari Share Extension** — Send URLs or selected text directly from Safari to KO Reader with one tap.
 - **Multiple AI Voices** — Choose from a variety of natural-sounding voices in multiple languages.
 - **Adjustable Playback** — Speed up or slow down from 0.5x to 2.0x to fit your pace.
 - **Chapter Navigation** — Jump between chapters in EPUBs for easy navigation.
