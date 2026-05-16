@@ -1,6 +1,8 @@
 # KO Reader
 KO Reader information and privacy policy
 
+Get [KO Reader](https://apps.apple.com/us/app/ko-reader/id6761862109)
+
 If you're looking to convert an EPUB or PDF file to an audiobook for playback later, you don't need KO Reader — there are much better options that won't put all the stress on your device. Check out [abogen](https://github.com/denizsafak/abogen) or [autiobooks](https://github.com/tecmage/autiobooks) for powerful desktop audiobook conversion.
 
 However, if you want totally local playback of articles, chapters, or books on the go, KO Reader might be right for you.
